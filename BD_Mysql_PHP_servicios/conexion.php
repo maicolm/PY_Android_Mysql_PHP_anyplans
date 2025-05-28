@@ -1,6 +1,6 @@
 <?php
 $hostname='localhost';
-$database='developeru_bd';
+$database='TUBASEDEDATOS';
 $username='root';
 $password='';
 
